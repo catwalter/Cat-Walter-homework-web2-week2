@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook-square-brands</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.737255 0 0 0 0 0.694118 0 0 0 0 0.627451 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Design-Update" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-133.000000, -4088.000000)">
+            <g id="footer" transform="translate(-6.000000, 3719.000000)">
+                <g id="facebook-square-brands" transform="translate(22.000000, 369.000000)" filter="url(#filter-1)">
+                    <g transform="translate(117.000000, 0.000000)">
+                        <path d="M19.6428571,0 L2.35714286,0 C1.0553288,0 0,1.0553288 0,2.35714286 L0,19.6428571 C0,20.9446712 1.0553288,22 2.35714286,22 L9.09709821,22 L9.09709821,14.5204911 L6.00334821,14.5204911 L6.00334821,11 L9.09709821,11 L9.09709821,8.31678571 C9.09709821,5.26477679 10.9140625,3.57892857 13.6969643,3.57892857 C15.0297321,3.57892857 16.4233929,3.81660714 16.4233929,3.81660714 L16.4233929,6.81214286 L14.8878125,6.81214286 C13.3748214,6.81214286 12.9029018,7.75107143 12.9029018,8.7140625 L12.9029018,11 L16.2804911,11 L15.7403125,14.5204911 L12.9029018,14.5204911 L12.9029018,22 L19.6428571,22 C20.9446712,22 22,20.9446712 22,19.6428571 L22,2.35714286 C22,1.0553288 20.9446712,0 19.6428571,0 L19.6428571,0 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
