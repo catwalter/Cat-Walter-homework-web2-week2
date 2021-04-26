@@ -1,0 +1,21 @@
+/* =============
+    2side-by-sides
+============= */
+#2side-by-sides {
+
+    img {
+        width: 100%;
+    }
+
+    ul {
+        li {
+            display: grid;
+            grid-template-columns: 16px auto 16px;
+            grid-template-areas: ". 2side-by-sides-content";
+
+            a{
+                grid-area: auto;
+            }
+        }
+    }
+}
