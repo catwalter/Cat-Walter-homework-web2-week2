@@ -238,44 +238,44 @@
       "oAP" : "\/design\/homeworkDemo.sketch",
       "oF" : 0
     },
-    "\/dev\/content\/section-1.kit" : {
+    "\/dev\/content\/1fountain-pic.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/section-1.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/1fountain-pic.html",
       "oF" : 0
     },
-    "\/dev\/content\/section-2.kit" : {
+    "\/dev\/content\/2side-by-sides.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/section-2.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/2side-by-sides.html",
       "oF" : 0
     },
-    "\/dev\/content\/section-3.kit" : {
+    "\/dev\/content\/3pics-with-buttons.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/section-3.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/3pics-with-buttons.html",
       "oF" : 0
     },
-    "\/dev\/content\/section-4.kit" : {
+    "\/dev\/content\/4pic-break.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/section-4.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/4pic-break.html",
       "oF" : 0
     },
-    "\/dev\/content\/section-5.kit" : {
+    "\/dev\/content\/5articles-with-pics.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/section-5.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/5articles-with-pics.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -505,6 +505,20 @@
       "oA" : 0,
       "oAP" : "\/dev\/scss\/layout\/styles.css",
       "oF" : 2,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/1fountain-pic.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/1fountain-pic.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
