@@ -6,10 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
 
 
     <!-- Font Awesome -->
-
+    <script src="https://kit.fontawesome.com/7e166d07ad.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="css/styles.css">
     <title><Cat-Walter-homework-web2-week2></title>
@@ -17,8 +18,11 @@
 
 <body>
     <header>
-        <aside></aside>
-        <nav></nav>
+        <section>
+            <aside></aside>
+            <i class="fas fa-leaf"></i>
+            <nav></nav>
+        </section>
     </header>
 <section>
         <img src="img/section-1/section-1-image.jpg" alt="fountain">
@@ -81,26 +85,37 @@
         <h2>
             Pennsylvania
         </h2>
-        <img src="img/footer/location.svg" alt="arrow">
+        <ul>
+            <li><a href="#"><i class="far fa-location-arrow"></i></a></li>
+        </ul>
         <p>
             9201 Germantown Avenue
     Philadelphia, PA 19118
         </p>
-        <img src="img/footer/phone.svg" alt="phone icon">
+        <ul>
+            <li><a href="#"><i class="fas fa-mobile"></i></a></li>
+        </ul>
         <p>
             215-247-0476
         </p>
-        <h1>Newsletter Sign up</h1>
-        <button>
-            <img src="img/footer/facebook-square-brands.svg" alt="facebook">
-        </button>
-        <button>
-            <img src="img/footer/instagram-square-brands.svg" alt="instagram">
-        </button>
-            <img src="img/footer/twitter-square-brands.svg" alt="twitter">
-        <button>
-            <img src="img/footer/youtube-square-brands.svg" alt="youtube">
-        </button>
+        <section>
+            <h1>Newsletter Sign Up</h1>
+            <form action="POST">
+                <input type="text" placeholder="Email Address">
+                <button>Sign Up</button>
+            </form>
+        </section>
+       
+       
+       <section>
+        <h1>Follow Us</h1>
+           <ul>
+                <li><a href="#"><i class="fab fa-youtube-square"></i></a></li>
+                <li><a href="#"><i class="fab fa-twitter-square"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram-square"></i></a></li>
+            </ul>
+        </section>
     </footer>
 </body>
 

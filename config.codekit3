@@ -238,44 +238,44 @@
       "oAP" : "\/design\/homeworkDemo.sketch",
       "oF" : 0
     },
-    "\/dev\/content\/1fountain-pic.kit" : {
+    "\/dev\/content\/section-1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/1fountain-pic.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/section-1.html",
       "oF" : 0
     },
-    "\/dev\/content\/2side-by-sides.kit" : {
+    "\/dev\/content\/section-2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/2side-by-sides.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/section-2.html",
       "oF" : 0
     },
-    "\/dev\/content\/3pics-with-buttons.kit" : {
+    "\/dev\/content\/section-3.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/3pics-with-buttons.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/section-3.html",
       "oF" : 0
     },
-    "\/dev\/content\/4pic-break.kit" : {
+    "\/dev\/content\/section-4.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/4pic-break.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/section-4.html",
       "oF" : 0
     },
-    "\/dev\/content\/5articles-with-pics.kit" : {
+    "\/dev\/content\/section-5.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/5articles-with-pics.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/section-5.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -495,7 +495,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/styles.scss" : {
+    "\/dev\/scss\/layout\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -503,7 +503,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
+      "oAP" : "\/dev\/scss\/layout\/styles.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0,
