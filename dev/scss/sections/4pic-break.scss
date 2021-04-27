@@ -1,0 +1,14 @@
+/* =============
+    4pic-breaks
+============= */
+#4pic-breaks {
+    ul {
+        display: grid;
+
+        li {
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
