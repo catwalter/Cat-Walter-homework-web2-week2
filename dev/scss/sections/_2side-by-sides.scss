@@ -1,7 +1,7 @@
 /* =============
     2side-by-sides
 ============= */
-#2side-by-sides {
+#side-by-sides {
 
     img {
         width: 100%;
@@ -11,10 +11,10 @@
         li {
             display: grid;
             grid-template-columns: 16px auto 16px;
-            grid-template-areas: ". 2side-by-sides-content";
+            grid-template-areas: ". 2side-by-sides-content .";
 
             a{
-                grid-area: auto;
+                grid-area: 2side-by-sides-content;
             }
         }
     }

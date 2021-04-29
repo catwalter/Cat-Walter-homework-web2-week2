@@ -1,8 +1,10 @@
 /* =============
-    5articles-with-pics
+    4pic-breaks
 ============= */
-#5articles-with-pics { 
+#pic-breaks {
     ul {
+        display: grid;
+
         li {
             img {
                 width: 100%;

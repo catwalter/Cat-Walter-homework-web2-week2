@@ -1,0 +1,11 @@
+/* =============
+    3pics-with-buttons
+============= */
+#pics-with-buttons ul li {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". 3pics-with-buttons";
+}
+#pics-with-buttons ul li div {
+  grid-area: 3pics-with-buttons-content;
+}
