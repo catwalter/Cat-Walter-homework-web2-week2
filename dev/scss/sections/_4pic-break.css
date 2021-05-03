@@ -1,9 +1,0 @@
-/* =============
-    4pic-breaks
-============= */
-#pic-breaks ul {
-  display: grid;
-}
-#pic-breaks ul li img {
-  width: 100%;
-}
