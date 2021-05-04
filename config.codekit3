@@ -495,20 +495,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/layout\/styles.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/layout\/styles.css",
-      "oF" : 2,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/sections\/_1fountain-pic.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -575,6 +561,20 @@
       "oA" : 0,
       "oAP" : "\/dev\/scss\/sections\/_5articles-with-pics.css",
       "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/styles.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/sections\/styles.css",
+      "oF" : 2,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
