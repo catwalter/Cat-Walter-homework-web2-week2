@@ -3,6 +3,29 @@
 ============= */
 #pics-with-buttons {
 
+    @include xl {
+        display: grid;
+        grid-template-columns: auto 1200px auto;
+
+        grid-template-areas: ". pics-with-buttons .";
+    }
+
+    ul {
+        display: grid;
+
+        @include md {
+            grid-template-columns: 50% auto;
+        }
+
+        @include lg {
+            grid-template-columns: 60% auto;
+        }
+        
+        @include xl {
+            grid-area: pics-with-buttons
+        }
+    }
+
     ul {
         li {
             display: grid;
