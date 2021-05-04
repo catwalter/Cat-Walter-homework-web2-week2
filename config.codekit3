@@ -579,14 +579,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
-    },
     "\/README.md" : {
       "cB" : 0,
       "cS" : 0,
