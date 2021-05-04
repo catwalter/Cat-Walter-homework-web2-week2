@@ -360,6 +360,10 @@ ul li {
   list-style: none;
 }
 
+.hidden {
+  display: none;
+}
+
 h1 {
   font-family: "Open Sans", sans-serif;
 }
