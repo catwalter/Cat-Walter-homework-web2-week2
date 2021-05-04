@@ -1,5 +1,5 @@
 /* =============
-    2side-by-sides
+    side-by-sides
 ============= */
 #side-by-sides {
 
@@ -28,7 +28,7 @@
             grid-template-columns: 16px auto 16px;
             grid-template-areas: ". side-by-sides-content .";
 
-            <div {
+            >div {
                 grid-area: side-by-sides-content;
             }
         }

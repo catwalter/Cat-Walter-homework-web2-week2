@@ -238,44 +238,44 @@
       "oAP" : "\/design\/homeworkDemo.sketch",
       "oF" : 0
     },
-    "\/dev\/content\/1fountain-pic.kit" : {
+    "\/dev\/content\/articles-with-pics.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/1fountain-pic.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/articles-with-pics.html",
       "oF" : 0
     },
-    "\/dev\/content\/2side-by-sides.kit" : {
+    "\/dev\/content\/fountain-pic.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/2side-by-sides.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/fountain-pic.html",
       "oF" : 0
     },
-    "\/dev\/content\/3pics-with-buttons.kit" : {
+    "\/dev\/content\/pic-break.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/3pics-with-buttons.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/pic-break.html",
       "oF" : 0
     },
-    "\/dev\/content\/4pic-break.kit" : {
+    "\/dev\/content\/pics-with-buttons.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/4pic-break.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/pics-with-buttons.html",
       "oF" : 0
     },
-    "\/dev\/content\/5articles-with-pics.kit" : {
+    "\/dev\/content\/side-by-sides.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/5articles-with-pics.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/side-by-sides.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -495,7 +495,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_1fountain-pic.scss" : {
+    "\/dev\/scss\/sections\/_articles-with-pics.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -503,13 +503,69 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_1fountain-pic.css",
+      "oAP" : "\/dev\/scss\/sections\/_articles-with-pics.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_2side-by-sides.scss" : {
+    "\/dev\/scss\/sections\/_fountain-pic.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_fountain-pic.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_pic-break.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_pic-break.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_pics-with-buttons.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_pics-with-buttons.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_side-by-sides.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_side-by-sides.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -517,63 +573,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/_2side-by-sides.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_3pics-with-buttons.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/_3pics-with-buttons.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_4pic-break.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/_4pic-break.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_5articles-with-pics.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/_5articles-with-pics.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/styles.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/styles.css",
+      "oAP" : "\/dev\/scss\/styles.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0,
