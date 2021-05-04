@@ -1,11 +1,83 @@
 /* =============
-    5articles-with-pics
+    articles-with-pics
 ============= */
 #articles-with-pics { 
-    ul {
-        li {
-            img {
-                width: 100%;
+
+    @include md {
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: ". articles-with-pics .";
+    }
+
+    @include xl {
+        grid-template-columns: auto 1200px auto;
+    }
+
+    >div {
+
+        @include md {
+            grid-area: articles-with-pics;
+        }
+
+        ul {
+
+            #s1 {
+                @include md {
+                    grid-area: s1;
+                }
+            }
+
+            #s2 {
+                @include md {
+                    grid-area: s2;
+                }
+            }
+
+            #s3 {
+                @include md {
+                    grid-area: s3;
+                }
+            }
+
+            #s4 {
+                @include md {
+                    grid-area: s4;
+                }
+            }
+
+            #s5 {
+                @include md {
+                    grid-area: s5;
+                }
+            }
+
+            @include md {
+                display: grid;
+                grid-template-columns: repeat(4, 1fr);
+                grid-template-areas: 
+                "s1 s1 s2 s2"
+                "s3 s3 s4 s4"
+                ". s5 s5 .";
+                gap: 16px;
+            }
+
+            @include lg{
+                grid-template-columns: repeat(6, 1fr);
+                grid-template-areas: 
+                "s1 s1 s2 s2 s3 s3"
+                ". s4 s4 s5 s5 .";
+            }
+
+            li{
+                img {
+                    width: 100%;
+                }
+
+                section {
+                    display: grid;
+                    grid-template-columns: 16px auto 16px;
+                    grid-template-areas: ". articles-with-pics-content";
+                }
             }
         }
     }
