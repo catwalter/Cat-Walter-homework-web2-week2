@@ -1,8 +1,36 @@
 /* =============
     1fountain-pic
 ============= */
-#1fountain-pic {
+#fountain-pic {
     img {
         width: 100%;
     }
+
+    ul {
+
+        @include md {
+            display: grid;
+            grid-template-columns: 40% auto;
+        }
+
+        @include lg {
+            grid-template-columns: 50% auto;
+        }
+
+        li {
+            display: grid;
+            grid-template-columns: 16px auto 16px;
+            grid-template-areas: ". fountain-pic .";
+
+            @include xl {
+                grid-area: fountain-pic-content;
+                border: 1px
+            }
+        }
+
+        @include xl {
+            grid-template-columns: 16px 480px auto;
+        }
+    }
+
 }

@@ -6,7 +6,51 @@ footer  {
     grid-template-columns: 16px auto 16px;
     grid-template-areas: ". footer .";
 
+    @include xl{
+        grid-template-columns: auto 1200px auto;
+
+    }
+
     >div{
         grid-area: footer;
+        // border: 1x
+        @include md{
+            display: grid;
+            grid-template-columns: 50% auto;
+            grid-template-areas: 
+            "locations sgn-up"
+            "locations follow";
+        }
+
+        @include xl{
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-areas: 
+            "locations sign- up follow";
+        }
+
+        section{
+            //border: 1px
+
+            ul{
+                li{
+                    i{
+                        color:
+                    }
+                }
+            }
+        }
+
+        #locations{
+            @include md{
+                grid-area: sign-up;
+            }
+        }
+
+        #follow{
+            @include md{
+                grid-area: follow;
+            }
+        }
     }
+
 }
