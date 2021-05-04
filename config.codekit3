@@ -242,7 +242,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/content\/articles-with-pics.html",
       "oF" : 0
     },
@@ -250,7 +250,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/content\/fountain-pic.html",
       "oF" : 0
     },
@@ -258,7 +258,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/content\/pic-break.html",
       "oF" : 0
     },
@@ -266,7 +266,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/content\/pics-with-buttons.html",
       "oF" : 0
     },
@@ -274,7 +274,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/content\/side-by-sides.html",
       "oF" : 0
     },

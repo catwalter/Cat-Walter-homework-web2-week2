@@ -16,39 +16,34 @@ footer  {
         // border: 1x
         @include md{
             display: grid;
-            grid-template-columns: 50% auto;
+            grid-template-columns: repeat(2, 1fr);
             grid-template-areas: 
-            "locations sgn-up"
-            "locations follow";
+            "f1 f2"
+            "f1 f3";
+            gap: 16px;
         }
 
-        @include xl{
+        @include lg{
             grid-template-columns: repeat(3, 1fr);
             grid-template-areas: 
-            "locations sign- up follow";
+            "f1 f2 f3";
         }
 
-        section{
-            //border: 1px
-
-            ul{
-                li{
-                    i{
-                        
-                    }
-                }
+        #f1{
+            @include md{
+                grid-area: f1;
             }
         }
 
-        #locations{
+        #f2{
             @include md{
-                grid-area: sign-up;
+                grid-area: f2;
             }
         }
 
-        #follow{
+        #f3{
             @include md{
-                grid-area: follow;
+                grid-area: f3;
             }
         }
     }
