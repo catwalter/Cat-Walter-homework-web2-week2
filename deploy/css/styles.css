@@ -654,5 +654,8 @@ footer > div {
 #articles-with-pics > div ul li section {
   display: grid;
   grid-template-columns: 16px auto 16px;
-  grid-template-areas: ". articles-with-pics-content";
+  grid-template-areas: ". articles-with-pics-content .";
+}
+#articles-with-pics > div ul li section > div {
+  grid-area: articles-with-pics-content;
 }

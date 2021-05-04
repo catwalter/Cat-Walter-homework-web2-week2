@@ -76,7 +76,10 @@
                 section {
                     display: grid;
                     grid-template-columns: 16px auto 16px;
-                    grid-template-areas: ". articles-with-pics-content";
+                    grid-template-areas: ". articles-with-pics-content .";
+                    >div{
+                        grid-area: articles-with-pics-content;
+                    }
                 }
             }
         }
