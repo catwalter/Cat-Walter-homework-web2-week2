@@ -13,22 +13,20 @@
         grid-template-columns: auto 1000px auto;
     }
 
-    ul{
+    ul {
         display: grid;
         gap: 16px;
 
         @include md {
             grid-template-columns: 50% auto;
-            gap: 24px
-            grid-area: side-by-sides
+            gap: 24px;
+            grid-area: 2side-by-sides;
         }
-    }
 
-    ul {
         li {
             display: grid;
             grid-template-columns: 16px auto 16px;
-            grid-template-areas: ". 2side-by-sides-content .";
+            grid-template-areas: ". side-by-sides-content .";
 
             <div {
                 grid-area: side-by-sides-content;
