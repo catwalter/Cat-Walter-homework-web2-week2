@@ -360,6 +360,11 @@ ul li {
   list-style: none;
 }
 
+#header {
+  background-color: #4a5f58;
+  color: lemonchiffon;
+}
+
 #s1 {
   background-color: #4a5f58;
   color: lemonchiffon;
@@ -381,6 +386,11 @@ ul li {
 }
 
 #s5 {
+  background-color: #4a5f58;
+  color: lemonchiffon;
+}
+
+#footer {
   background-color: #4a5f58;
   color: lemonchiffon;
 }
