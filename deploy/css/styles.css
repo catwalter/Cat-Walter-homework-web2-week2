@@ -360,6 +360,35 @@ ul li {
   list-style: none;
 }
 
+#s1 {
+  background-color: #4a5f58;
+  color: lemonchiffon;
+}
+
+#s2 {
+  background-color: #4a5f58;
+  color: lemonchiffon;
+}
+
+#s3 {
+  background-color: #4a5f58;
+  color: lemonchiffon;
+}
+
+#s4 {
+  background-color: #4a5f58;
+  color: lemonchiffon;
+}
+
+#s5 {
+  background-color: #4a5f58;
+  color: lemonchiffon;
+}
+
+#pic-break {
+  margin: 10px;
+}
+
 .hidden {
   display: none;
 }
